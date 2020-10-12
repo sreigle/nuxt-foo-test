@@ -1,4 +1,5 @@
 export default {
+  server: '0.0.0.0',
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'nuxt-foo-test',
@@ -35,4 +36,4 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
-}
+};
